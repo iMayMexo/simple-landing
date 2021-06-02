@@ -1,0 +1,80 @@
+{
+    "es": {
+        "header": "Llena el formulario y nos contactamos contigo:",
+        "name": "Tu nombre",
+        "telephone": "N&uacute;mero tel&eacute;fono",
+        "email": "Correo electr&oacute;nico",
+        "city": "City",
+        "company": "Company",
+        "job": "Job",
+        "submit": "Enviar",
+        "message": {
+            "success": "Felicidades! En breve nos pondremos en contacto con usted para indicarle como hacer v&aacute;lido esta promoci&oacute;n.",
+            "error": "",
+            "warning": "Hubo una incidencia! ...Pero pudimos guardar sus datos. En breve nos comunicaremos con usted!",
+            "fail": "Hubo una incidencia! ... Y no pudimos guardar sus datos. Favor de intentarlo m&aacute;s tarde!"
+        },
+        "mail": {
+            "header": "REGISTRO LANDING PAGE",
+            "body": {
+                "campaign": "Campa&ntilde;a:",
+                "customer": "Cliente:",
+                "telephone": "Tel&eacute;fono:",
+                "email": "Correo electr&oacute;nico:",
+                "city": "Ciudad",
+                "company": "Empresa",
+                "job": "Posici&oacute;n",
+                "subject": "America Car Rental - Nuevo Registro Landing Page",
+                "promotion_code": "C&oacute;digo de promoci&oacute;n:"
+            }
+        },
+        "whatsapp": {
+            "text": "Hola!"
+        },
+        "condition": {
+            "PROMO200DEP": "Aplica a la tarifa  vigente del d&iacute;a y al momento de llegar a mostrador Incluye tiempo y km libre, impuestos y 0% deducible Per&iacute;odo m&iacute;nimo de alquiler 2 d&iacute;as. Per&iacute;odo m&aacute;ximo de renta 7 d&iacute;as. V&aacute;lido para una sola renta por cliente. Una vez utilizada &eacute;sta promoci&oacute;n no se podr&aacute; usar nuevamente para una futura renta. Este beneficio no puede combinarse con otra promoci6oacute;n, descuento o tarifa pactada. Promoci&oacute;n no transferible. La reservaci&oacute;n de la renta de auto deber&aacute; hacerse con un m&iacute;nimo de 2 hrs. de anticipaci&oacute;n. Cliente presenta tarjeta de cr&eacute;dito, licencia de conducir vigente e identificaci&oacute;n oficial. Aplican restricciones. Consulta categor6iacute;as participantes. Sujeto a disponibilidad.",
+            "PROMO20": "Aplica a la tarifa  vigente del d&iacute;a Incluye tiempo y km libre, impuestos y 0% deducible Per&iacute;odo m&iacute;nimo de alquiler 2 d&iacute;as. Per&iacute;odo m&aacute;ximo de renta 8 d&iacute;as. V&aacute;lido para una sola renta por cliente. Una vez utilizada &eacute;sta promoci&oacute;n no se podr&aacute; usar nuevamente para una futura renta. Este beneficio no puede combinarse con otra promoci&oacute;n, descuento o tarifa pactada. Promoci&oacute;n no transferible. La reservaci&oacute;n de la renta de auto deber&aacute; hacerse con un m&iacute;nimo de 2 hrs. de anticipaci&oacute;n. Cliente presenta tarjeta de cr&eacute;dito, licencia de conducir vigente e identificaci&oacute;n oficial. Aplican restricciones. Sujeto a disponibilidad. ",
+            "DEPM20": "Aplica a la tarifa  vigente del d&iacute;a Incluye tiempo y km libre, impuestos y 0% deducible. V&aacute;lido para una sola renta por cliente. Una vez utilizada &eacute;sta promoci&oacute;n no se podr&aacute; usar nuevamente para una futura renta. Este beneficio no puede combinarse con otra promoci&oacute;n, descuento o tarifa pactada. Promoci&oacute;n no transferible. La reservaci&oacute;n de la renta de auto deber&aacute; hacerse con un m&iacute;nimo de 2 hrs. de anticipaci&oacute;n. Cliente presenta tarjeta de cr&eacute;dito, licencia de conducir vigente e identificaci&oacute;n oficial. Aplican restricciones. Sujeto a disponibilidad. ",
+            "PROMOUP0": "Aplica a la tarifa  vigente del d&iacute;a y al momento de llegar a mostrador Incluye tiempo y km libre, impuestos y 0% deducible Per&iacute;odo m&iacute;nimo de alquiler 2 d&iacute;as. Per&iacute;odo m&aacute;ximo de renta 7 d&iacute;as. V&aacute;lido para una sola renta por cliente. Una vez utilizada &eacute;sta promoci&oacute;n no se podr&aacute; usar nuevamente para una futura renta. Este beneficio no puede combinarse con otra promoci&oacute;n, descuento o tarifa pactada. Promoci&oacute;n no transferible. La reservaci&oacute;n de la renta de auto deber&aacute; hacerse con un m&iacute;nimo de 2 hrs. de anticipaci&oacute;n. Cliente presenta tarjeta de cr&eacute;dito, licencia de conducir vigente e identificaci&oacute;n oficial. Aplican restricciones. Consulta categor&iacute;as participantes. Sujeto a disponibilidad. "
+        }
+    },
+    "en": {
+        "header":"Fill out the form and we will contact you:",
+        "name": "Your name",
+        "telephone": "Phone number",
+        "email": "E-mail",
+        "city": "City",
+        "company": "Company",
+        "job": "Job",
+        "submit": "Send",
+        "message": {
+            "success": "Congratulations! In a little while we will get  in touch with you to tell you how you can get the benefits of this promo.",
+            "error": "",
+            "warning": "It was an incident, but your data has been saved correctly! In a little while we wll get in touch with you to tell you how you can get the benefits of this promo.",
+            "fail": "There was an incident saving your data. Please try again later!"
+        },
+        "mail": {
+            "header": "LANDING PAGE REGISTRATION",
+            "body": {
+                "campaign": "Campaing:",
+                "customer": "Customer:",
+                "telephone": "Phone:",
+                "city": "City",
+                "company": "Company",
+                "job": "Job",
+                "email": "E-mail:",
+                "subject": "America Car Rental - New Registration Landing Page:",
+                "promotion_code": "Promotion code:"
+            }
+        },
+        "whatsapp": {
+            "text": "Hello!"
+        },
+        "condition": {
+            "PROMO200DEP": "Applies to current day rate and at the time of arrival at the counter Includes time and mileage, taxes and 0% deductible Minimum rental period 2 days. Maximum rental period 7 days. Valid for one rental per customer only. Once this promotion is used, it cannot be used again for future rent. This benefit cannot be combined with another promotion, discount or agreed rate. Promotion not transferable. The reservation of the car rental must be made with a minimum of 2 hrs. in advance. Customer presents credit card, valid driver’s license and official ID. Restrictions apply. Ask for participating categories Subject to availability. ",
+            "PROMO20": "Applies to current day rate and at the time of arrival at the counter Includes time and mileage, taxes and 0% deductible Minimum rental period 2 days. Maximum rental period 8 days. Valid for one rental per customer only. Once this promotion is used, it cannot be used again for future rent. This benefit cannot be combined with another promotion, discount or agreed rate. Promotion not transferable. The reservation of the car rental must be made with a minimum of 2 hrs. in advance. Customer presents credit card, valid driver’s license and official ID. Restrictions apply. Ask for participating categories Subject to availability. ",
+            "DEPM20": "Applies to current day rate and at the time of arrival at the counter Includes time and mileage, taxes and 0% deductible. Valid for one rental per customer only. Once this promotion is used, it cannot be used again for future rent. This benefit cannot be combined with another promotion, discount or agreed rate. Promotion not transferable. The reservation of the car rental must be made with a minimum of 2 hrs. in advance. Customer presents credit card, valid driver’s license and official ID. Restrictions apply. Ask for participating categories, Subject to availability. ",
+            "PROMOUP0": "Applies to current day rate and at the time of arrival at the counter Includes time and mileage, taxes and 0% deductible Minimum rental period 2 days. Maximum rental period 7 days. Valid for one rental per customer only. Once this promotion is used, it cannot be used again for future rent. This benefit cannot be combined with another promotion, discount or agreed rate. Promotion not transferable. The reservation of the car rental must be made with a minimum of 2 hrs. in advance. Customer presents credit card, valid driver’s license and official ID. Restrictions apply. Ask for participating categories Subject to availability. "
+        }
+    }
+}

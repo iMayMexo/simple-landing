@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Graphik Web';
+    src: url("../font/graphikWeb/GraphikWeb-Regular.eot?#iefix") format('embedded-opentype'),
+    url("../font/graphikweb/GraphikWeb-Regular.woff")format('woff'),
+    url("../font/graphikWeb/GraphikWeb-Regular.ttf")format('truetype'),
+    url("../font/graphikWeb/GraphikWeb-Regular.svg#Graphik-Regular")format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: 'Graphik Web Light';
+    src: url('../font/graphikWeb/GraphikWeb-Light.eot');
+    src: url('../font/graphikWeb/GraphikWeb-Light.eot?#iefix') format('embedded-opentype'),
+    url('../font/graphikWeb/GraphikWeb-Light.woff') format('woff'),
+    url('../font/graphikWeb/GraphikWeb-Light.ttf') format('truetype'),
+    url('../font/graphikWeb/GraphikWeb-Light.svg#Graphik-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+}
+.title-graphik{
+    font-family: "Graphik Web Light";
+    padding-top: 3rem;
+}
+.form-label-group>label {
+    font-family: "Graphik Web Light";
+    font-size: 15px;
+}
+.fases{
+    left: -30px;
+    position: absolute;
+    top: 10px;
+    font-size: 1.5rem;
+    color: grey;
+}
+.btn-whatsapp {
+    display:block;
+    width:70px;
+    height:70px;
+    color:#fff;
+    position: fixed;
+    right:20px;
+    bottom:20px;
+    border-radius:50%;
+    line-height:80px;
+    text-align:center;
+    z-index:999;
+ }
+ .btn-warning {
+     color: #FFFFFF;
+     background-color: #ffc107;
+     border-color: #ffc107;
+ }
+
+ .btn-send { 
+   color: #ffffff; 
+   background-color: #003AB4; 
+   border-color: #130269; 
+ } 
+
+ .btn-send:hover, 
+ .btn-send:focus, 
+ .btn-send:active, 
+ .btn-send.active, 
+ .open .dropdown-toggle.btn-send { 
+   color: #ffffff; 
+   background-color: #49247A; 
+   border-color: #130269; 
+ } 
+
+ .btn-send:active, 
+ .btn-send.active, 
+ .open .dropdown-toggle.btn-send { 
+   background-image: none; 
+ } 
+
+ .btn-send.disabled, 
+ .btn-send[disabled], 
+   fieldset[disabled] .btn-send, 
+ .btn-send.disabled:hover, 
+ .btn-send[disabled]:hover, 
+   fieldset[disabled] .btn-send:hover, 
+ .btn-send.disabled:focus, 
+ .btn-send[disabled]:focus, 
+   fieldset[disabled] .btn-send:focus, 
+ .btn-send.disabled:active, 
+ .btn-send[disabled]:active, 
+   fieldset[disabled] .btn-send:active, 
+ .btn-send.disabled.active, 
+ .btn-send[disabled].active, 
+   fieldset[disabled] .btn-send.active { 
+     background-color: #003AB4; 
+     border-color: #130269; 
+   } 
+
+ .btn-send .badge { 
+   color: #003AB4; 
+   background-color: #ffffff; 
+ }
+ .telephone{
+     margin-left: -375px;
+ }
+
+ .eye{
+     position:absolute;
+     height:auto;
+     width:30%;
+     top: 10px;
+     left : 30%;
+     z-index: 1;        
+ }
+
+ .heaven
+ {
+     position:relative;
+     height:auto;
+     width:100%;
+     z-index: -1;
+ }
+
+ /*Tel position*/
+ .img-tel{            
+   position: relative;
+   left: 50%;
+   top: 50%;
+   width: 50%;
+   transform: translate(-50%, -50%);
+   -webkit-transform: translate(-47%, -10%);
+ }
+
+.img-tel-resp{
+    display: block;
+}
+@media screen and (max-width: 1090px){
+    .contenedor-flex{
+        display:flex !important;
+        flex-direction: column-reverse;
+    }
+    .eye{
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    .eye img{
+        width: 100%;
+    }
+    .img-tel-resp{
+        display: none;
+    }
+    .row{
+        display: block !important;
+    }
+}
+ @media only screen and (max-device-width: 480px) {
+   /* define mobile specific styles come here */
+   .form-position-device {
+     margin-top: -10%;
+   }
+ }
+
+ /*Ocultar el imagen del telefono cuando cambia la orientacion en mobile*/   
+ @media only screen and (max-width: 768px) {     
+   .img-tel {        
+     display: none !important;
+   }
+ }
